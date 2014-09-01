@@ -1,0 +1,4 @@
+stacker
+=======
+
+Photo Stacker
